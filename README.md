@@ -5,7 +5,7 @@
 
 const esperanza = {
   code: [Javascript, Typescript, HTML, CSS, Java],
-  tools: [React, Angular, NodeJS, MySQL],
+  tools: [React, Angular, NodeJS, Mysql, MongoDB, Bootsrtrap],
 }
 
 ```
