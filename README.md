@@ -1,8 +1,6 @@
 <h2> Hi! Welcome <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 
-
-
 ```js
 
 const esperanza = {
@@ -17,7 +15,9 @@ const esperanza = {
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sachin93@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/hopyropy)
 
-[CV_EperanzaMartin_Link.pdf](https://github.com/EspePop/espepop/files/6710189/CV_EperanzaMartin_Link.pdf)
+
 <a href="https://github.com/EspePop/espepop/files/6710189/CV_EperanzaMartin_Link.pdf" target="_blank">
 <img width="400px" src="https://user-images.githubusercontent.com/75271403/123285821-aedde180-d50d-11eb-8201-21f9d8a850ce.png">
 </a>
+
+[CV_EperanzaMartin_Link.pdf](https://github.com/EspePop/espepop/files/6710189/CV_EperanzaMartin_Link.pdf)
