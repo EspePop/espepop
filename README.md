@@ -1,8 +1,6 @@
 <h2> ¡Hola! ¡Soy Esperanza Martín, bienvenid@s! </h2>
 
 
-<img align='right' width="200px" src='https://user-images.githubusercontent.com/75271403/123267886-ca40f080-d4fd-11eb-8adf-b3262e50b614.gif'>
-
 ```js
 
 const esperanza = {
