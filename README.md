@@ -1,7 +1,7 @@
 <h2> Oh! You have found me! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <h4> 🚁 Junior Full Stack </h4>
 
-<img align='right' width="200px" src='https://user-images.githubusercontent.com/75271403/123267886-ca40f080-d4fd-11eb-8adf-b3262e50b614.gif' width='200"'>
+<img align='right' width="300px" src='https://user-images.githubusercontent.com/75271403/123267886-ca40f080-d4fd-11eb-8adf-b3262e50b614.gif' width='200"'>
 
 ```js
 
