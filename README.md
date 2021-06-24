@@ -21,4 +21,4 @@ const esperanza = {
 
 [CV_EperanzaMartin_Link.pdf](https://github.com/EspePop/espepop/files/6710189/CV_EperanzaMartin_Link.pdf)
 
-<img width="400px" src="https://user-images.githubusercontent.com/75271403/123285821-aedde180-d50d-11eb-8201-21f9d8a850ce.png">
+<img width="300px" src="https://user-images.githubusercontent.com/75271403/123285821-aedde180-d50d-11eb-8201-21f9d8a850ce.png">
