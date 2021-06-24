@@ -17,3 +17,6 @@ const esperanza = {
 [![Gmail Badge](https://img.shields.io/badge/-esperanzamartin1982@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=?mailto:esperanzamartin1982@gmail.com)](mailto:esperanzamartin1982@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
+[CV_EperanzaMartin_Link.pdf](https://github.com/EspePop/espepop/files/6710189/CV_EperanzaMartin_Link.pdf)
+
+![CV_EperanzaMartin_Link-1](https://user-images.githubusercontent.com/75271403/123285821-aedde180-d50d-11eb-8201-21f9d8a850ce.png)
