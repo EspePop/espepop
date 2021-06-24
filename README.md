@@ -10,5 +10,6 @@ const esperanza = {
 }
 ```
 
-[![Twitter Badge](https://img.shields.io/badge/-@hopyropy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hopyropy)](https://twitter.com/hopyropy) [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/harshkumarkhatri/) [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri)
-[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@hopyropy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hopyropy)](https://twitter.com/hopyropy) 
+[![Linkedin Badge](https://img.shields.io/badge/-EsperanzaMartin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/esperanza-martín-martínez/)](www.linkedin.com/in/esperanza-martín-martínez/) 
+[![Gmail Badge](https://img.shields.io/badge/-esperanzamartin1982@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:esperanzamartin1982@gmail.com)](mailto:esperanzamartin1982@gmail.com)
