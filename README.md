@@ -6,6 +6,7 @@
 const esperanza = {
   code: [Javascript, Typescript, HTML, CSS, Java],
   tools: [React, Angular, NodeJS, Mysql, MongoDB, Bootstrap],
+  contact: 'esperanzamartin1982@gmail.com'
 }
 
 ```
