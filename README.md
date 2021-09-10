@@ -17,8 +17,8 @@ const esperanza = {
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/hopyropy)
 
 
-<a href="https://github.com/EspePop/espepop/files/7127441/EperanzaMartin.pdf" target="_blank">
-<img width="300px" src="https://user-images.githubusercontent.com/75271403/132479389-12779a9a-52e0-495c-9abe-37d3a94dac6c.png">
+<a href="https://github.com/EspePop/espepop/files/7143347/EperanzaMartin.pdf" target="_blank">
+<img width="300px" src="https://user-images.githubusercontent.com/75271403/132844434-6d80ed6e-ead0-4be2-a305-0dc3051b4fb5.png">
 </a>
 
-[EperanzaMartin.pdf](https://github.com/EspePop/espepop/files/7127441/EperanzaMartin.pdf)
+[EperanzaMartin.pdf](https://github.com/EspePop/espepop/files/7143347/EperanzaMartin.pdf)
