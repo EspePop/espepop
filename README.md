@@ -21,4 +21,4 @@ const esperanza = {
 <img width="300px" src="https://user-images.githubusercontent.com/75271403/134900433-c1ce6ca5-1058-421a-a570-28c945d09f5a.png">
 </a>
 
-[EperanzaMartin.pdf](https://github.com/EspePop/espepop/files/7143347/EperanzaMartin.pdf)
+[EperanzaMartin.pdf](https://github.com/EspePop/espepop/files/7235854/EperanzaMartin.pdf)
