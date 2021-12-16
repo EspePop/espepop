@@ -4,8 +4,8 @@
 ```js
 
 const esperanza = {
-  code: [Javascript, Typescript, HTML, CSS, Java],
-  tools: [React, Angular, NodeJS, Mysql, MongoDB, Bootstrap],
+  code: [Javascript, Typescript, HTML, CSS, Java, PHP],
+  tools: [React, Angular, NodeJS, Mysql, MongoDB, Bootstrap, WordPress],
   contact: 'esperanzamartin1982@gmail.com'
 }
 
