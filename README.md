@@ -18,7 +18,7 @@ const esperanza = {
 
 
 <a href="https://github.com/EspePop/espepop/files/7725651/Eperanza_Martin.pdf" target="_blank">
-<img width="300px" src="https://user-images.githubusercontent.com/75271403/146336703-d615c5cb-91f2-48c6-918f-cf0bf88fef08.jpg">
+<img width="300px" src="https://user-images.githubusercontent.com/75271403/167123126-6646cc22-d44c-4e80-b9ca-3b3394191d94.png">
 </a>
 
-[EperanzaMartin.pdf](https://github.com/EspePop/espepop/files/7725651/Eperanza_Martin.pdf)
+[CV_Eperanza_Martin.pdf](https://github.com/EspePop/espepop/files/8639601/CV_Eperanza_Martin.pdf)
